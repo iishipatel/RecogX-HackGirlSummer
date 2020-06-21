@@ -31,5 +31,5 @@ We wish to take this to the next level. Approach women-led companies and underre
 
 ## Source Codes:
 ### Front-End : https://github.com/smarter23/recogX
-### Back-End
+### Back-End : https://github.com/eeshashetty/RecogX-Backend
 ### iOS : https://github.com/garima94921/RecogX
