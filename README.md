@@ -1,4 +1,6 @@
-![img](img.png)
+<p align="center">
+  <img src="img.PNG">
+</p>
 
 ## Inspiration
 Participating in Hack Girl Summer gave us the chance to explore one of its partnered tracks of gender equality in the field of technology. As girls in the tech field, we have faced many problems finding opportunities to grow and flourish in our chosen careers. Hence, with the idea of reCogX we wanted to reach out to as many people as possible.
